@@ -24,7 +24,7 @@ SourceList["HB", 0] = {
 	date : "2018/07/30"
 };
 
-RaceList["Mind Flayer"] = {
+RaceList["mind flayer"] = {
 	regExpSearch : /^((?=.*mind)(?=.*flayer)).*$/i,
 	name : "Flayer",
 	sortname : "Mind Flayer",
